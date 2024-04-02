@@ -1,4 +1,4 @@
-## About me
+## 💕🌸About me
 - 👋 Hi, I’m @BrookeMorr
 - 👀 I’m interested in creating more personal projects to improve my understanding of more languages
 - 🌱 I’m currently learning Java & Linux
