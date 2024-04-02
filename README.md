@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java & Linux
 - 📫 How to reach me: bmor717@aucklanduni.ac.nz
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love playing guitar and own 2 (an electric fender stratocaster and an acoustic ibanez)
+- ⚡ Fun fact: My favourite weather is rainy and I enjoy playing guitar (an electric fender stratocaster and an acoustic ibanez)
 > “There is no end to education. It is not that you read a book, pass an examination, and finish with education. The whole of life, from the moment you are born to the moment you die, is a process of learning.”—Jiddu Krishnamurti
 <!--  - 💞️ I’m looking to collaborate on ... -->
 ## 🖥️Programming languages / Techinal skills
