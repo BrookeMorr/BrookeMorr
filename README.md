@@ -10,6 +10,7 @@
 ## 🖥️Programming languages / Techinal skills
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
 
 ## 📈Github stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=BrookeMorr&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
